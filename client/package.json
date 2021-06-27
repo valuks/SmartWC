@@ -1,0 +1,7 @@
+{
+  "name": "SmartWC client",
+  "dependencies": {
+    "ds18b20-raspi": "^0.3.4"
+  },
+  "devDependencies": {}
+}
